@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: IT Intern at Spectrum Networks
-colors: colors-a
+colors: colors-b
 date: '2021-07-01'
 client: Awesome client
 description: >-

@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/360_F_248961156_XeSISXFo6bcFUw830wpE2zPLxWGCl1u9.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

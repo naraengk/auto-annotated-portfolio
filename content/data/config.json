@@ -5,44 +5,36 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Naraen's Portfolio",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://linkedin.com/in/naraengk",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/naraengk",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "instagram.com/naraengk",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
-                "width": "full"
+                "width": "wide"
             }
         }
     },
@@ -51,44 +43,58 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "",
+                "url": "",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "url": "mailto:naraengopala@umass.edu",
+                "altText": "",
+                "icon": "mail",
+                "iconPosition": "left",
+                "showIcon": true
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "LinkedIn",
+                "url": "linkedin.com/in/naraengk",
+                "altText": "",
+                "icon": "linkedin",
+                "iconPosition": "left",
+                "showIcon": true
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/naraengk",
+                "altText": "GitHub",
+                "icon": "github",
+                "iconPosition": "left",
+                "showIcon": true
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+14132102896",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "email": "",
+            "emailAltText": "",
+            "address": "Amherst, MA, 01003",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

@@ -180,7 +180,7 @@ sections:
         label: Swift
         url: ''
       - type: Label
-        label: Java
+        label: HTML
         url: ''
       - type: Label
         label: Python

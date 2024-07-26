@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Hangman Game
 colors: colors-a
 date: '2024-03-16'
-client: Python
+client: ''
 description: Built a Hangman game on Python.
 media:
   type: ImageBlock

@@ -170,6 +170,9 @@ sections:
       - type: Label
         label: Flask
         url: ''
+      - type: Label
+        label: Django
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

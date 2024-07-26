@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Blackjack Game
 colors: colors-a
-date: '0020-05-24'
+date: '2024-05-24'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably

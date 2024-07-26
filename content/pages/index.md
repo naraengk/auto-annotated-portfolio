@@ -109,7 +109,7 @@ sections:
       - type: Link
         label: ''
         altText: ''
-        url: /projects
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right

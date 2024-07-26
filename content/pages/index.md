@@ -162,9 +162,6 @@ sections:
         label: React
         url: ''
       - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
         label: HTML
         url: ''
       - type: Label

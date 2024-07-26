@@ -69,7 +69,8 @@
                 "label": "Contact",
                 "url": "mailto:naraengopala@umass.edu",
                 "altText": "",
-                "icon": "mail"
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",

@@ -177,6 +177,9 @@ sections:
       - type: Label
         label: Matplotlib
         url: ''
+      - type: Label
+        label: CSS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

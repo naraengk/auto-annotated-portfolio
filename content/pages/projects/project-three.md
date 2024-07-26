@@ -10,7 +10,6 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2024-07-26 131956.png
   altText: Blackjack Game
 media:
   type: ImageBlock

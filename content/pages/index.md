@@ -165,9 +165,6 @@ sections:
         label: Next.js
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: HTML
         url: ''
       - type: Label

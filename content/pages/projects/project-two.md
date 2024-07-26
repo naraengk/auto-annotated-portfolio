@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-03-16'
 client: Python
 description: Built a Hangman game on Python.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg

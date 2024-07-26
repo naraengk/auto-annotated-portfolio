@@ -65,7 +65,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Introduction
-    subtitle: ''
+    subtitle: A little about me
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo

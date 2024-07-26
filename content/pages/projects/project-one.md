@@ -9,7 +9,8 @@ description: >-
   Python programming, significantly broadening myexposure to the IT industry.•I
   underwent rigorous training encompassing Microsoft Azure (AZ-900, AI-900,
   DP-900), Python, Artificial Intelligence, and MachineLearning, with
-  assessments validating my proficiency in these domains.•
+  assessments validating my proficiency in these
+  domains.•                                                 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

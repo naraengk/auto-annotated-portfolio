@@ -107,7 +107,7 @@ sections:
     subtitle: Work Experience Gained
     actions:
       - type: Link
-        label: See all projects
+        label: ''
         altText: See all projects
         url: /projects
         showIcon: false

@@ -180,6 +180,9 @@ sections:
         label: Swift
         url: ''
       - type: Label
+        label: Java
+        url: ''
+      - type: Label
         label: Python
         url: ''
     colors: colors-f

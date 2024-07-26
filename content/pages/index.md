@@ -168,9 +168,6 @@ sections:
         label: Pancakes
         url: ''
       - type: Label
-        label: Swift
-        url: ''
-      - type: Label
         label: HTML
         url: ''
       - type: Label

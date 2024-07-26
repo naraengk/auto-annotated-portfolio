@@ -13,10 +13,6 @@ description: >-
   loses all their lives. The script displays the current state of the word with
   guessed letters revealed and underscores for remaining letters, and shows the
   corresponding hangman stage to indicate the number of remaining lives.
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/360_F_248961156_XeSISXFo6bcFUw830wpE2zPLxWGCl1u9.jpg

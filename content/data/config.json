@@ -75,7 +75,8 @@
                 "label": "LinkedIn",
                 "url": "linkedin.com/in/naraengk",
                 "altText": "",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",

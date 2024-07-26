@@ -180,6 +180,9 @@ sections:
         label: SciKit
         url: ''
       - type: Label
+        label: Beautiful Soup
+        url: ''
+      - type: Label
         label: Selenium
         url: ''
     colors: colors-f

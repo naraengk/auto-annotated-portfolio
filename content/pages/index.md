@@ -194,6 +194,9 @@ sections:
       - type: Label
         label: MATLAB
         url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

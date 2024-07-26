@@ -104,7 +104,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Work Experience Gained
     actions:
       - type: Link
         label: See all projects

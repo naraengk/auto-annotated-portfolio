@@ -19,8 +19,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/math-calculator-device-game-pixel-art-retro-vector-bit-accounting-work-bank-financial-old-vintage-illustration-278343294.webp
+  url: /images/unnamed (1).jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

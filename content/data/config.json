@@ -86,7 +86,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "4132102896",
+            "phoneNumber": "+14132102896",
             "phoneAltText": "My phone number",
             "email": "naraengopala@umass.edu",
             "emailAltText": "My email",

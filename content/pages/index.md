@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Naraen Gopalakrishnan
     subtitle: >-
       Welcome, explore my personal projects, skills, and experience in Computer

@@ -19,7 +19,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/10310245.png
+  url: /images/1000_F_222713204_CmXDtJw7N0bnCyfiKbBQFqjun1OzYIhb.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

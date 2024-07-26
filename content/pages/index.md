@@ -50,7 +50,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: github.com/naraengk/PythonProjects
     showDate: false
     showDescription: true
     showFeaturedImage: true

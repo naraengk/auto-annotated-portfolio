@@ -125,7 +125,7 @@ sections:
           width: full
           type: EmailFormControl
         - type: TextareaFormControl
-          name: Message
+          name: ''
           label: Message
           hideLabel: false
           placeholder: Type your message here

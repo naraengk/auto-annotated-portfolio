@@ -127,7 +127,7 @@ sections:
         - type: TextareaFormControl
           name: ''
           label: Message
-          hideLabel: false
+          hideLabel: true
           placeholder: Type your message here
           width: full
           isRequired: false

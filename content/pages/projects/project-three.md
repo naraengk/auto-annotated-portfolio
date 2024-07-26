@@ -11,6 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Blackjack Game
+  url: /images/360_F_8648216_RBLDaKh2q0YXT4fWasBS8EvDxyLYARMR.jpg
 media:
   type: ImageBlock
   url: /images/bg3.jpg

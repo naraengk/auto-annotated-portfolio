@@ -186,7 +186,7 @@ sections:
         label: Selenium
         url: ''
       - type: Label
-        label: Matplotlip
+        label: Matplotlib
         url: ''
     colors: colors-f
     elementId: ''

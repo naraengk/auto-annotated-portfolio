@@ -179,6 +179,9 @@ sections:
       - type: Label
         label: SciKit
         url: ''
+      - type: Label
+        label: Selenium
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

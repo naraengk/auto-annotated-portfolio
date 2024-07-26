@@ -180,6 +180,9 @@ sections:
       - type: Label
         label: CSS
         url: ''
+      - type: Label
+        label: MATLAB
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

@@ -103,45 +103,6 @@ sections:
           - pb-36
         justifyContent: center
         borderWidth: 1
-  - type: FeaturedProjectsSection
-    subtitle: Work Experience Gained
-    actions:
-      - type: Link
-        label: ''
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-c
-    variant: variant-d
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: Experience
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''

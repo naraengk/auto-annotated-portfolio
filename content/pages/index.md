@@ -171,6 +171,9 @@ sections:
         label: Flask
         url: ''
       - type: Label
+        label: NumPy
+        url: ''
+      - type: Label
         label: Django
         url: ''
     colors: colors-f

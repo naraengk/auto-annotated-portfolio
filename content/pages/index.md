@@ -103,7 +103,7 @@ sections:
           - pb-36
         justifyContent: center
         borderWidth: 1
-  - colors: colors-a
+  - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:

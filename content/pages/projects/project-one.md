@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Calculator
 colors: colors-a
 date: '2024-06-14'
-client: Awesome client
+client: ''
 description: >-
   Acquired extensive experience in Cloud Computing, Artificial Intelligence, and
   Python programming, significantly broadening my exposure to the IT industry. I

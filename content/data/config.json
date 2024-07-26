@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "Skills",
-                "url": "/blog",
+                "url": "naraengk.netlify.app/skills/",
                 "altText": ""
             }
         ],

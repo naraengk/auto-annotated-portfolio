@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/naraengk",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "instagram.com/naraengk",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {

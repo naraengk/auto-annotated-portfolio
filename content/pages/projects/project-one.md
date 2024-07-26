@@ -13,10 +13,6 @@ description: >-
   to continue with the result or start a new calculation. The script supports
   multiple calculations in a single session and recursively restarts if the user
   chooses to continue.
-media:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/unnamed (1).jpg

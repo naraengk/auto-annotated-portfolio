@@ -82,7 +82,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Feel free to check them out.
-    title: PROJECTS
+    title: Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full

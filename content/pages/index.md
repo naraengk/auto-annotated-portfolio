@@ -185,6 +185,9 @@ sections:
       - type: Label
         label: Selenium
         url: ''
+      - type: Label
+        label: Matplotlip
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

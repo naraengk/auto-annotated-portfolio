@@ -135,6 +135,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Projects
   - type: DividerSection
     title: Divider
     elementId: ''

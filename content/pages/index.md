@@ -67,15 +67,13 @@ sections:
     title: Introduction
     subtitle: A little about me
     text: >+
-      *
-
       I am Naraen Gopalakrishnan, a sophomore pursuing Computer Engineering at
       the UMass Amherst, with a passion for AI and ML. My academic journey is
       complemented by hands-on experience through various internships and
       projects. Beyond my professional pursuits, I am an avid football and F1
       enthusiast, and enjoy bowling too. My diverse interests reflect my dynamic
       approach to both technology and leisure, driving me to excel in every
-      endeavor I undertake.*
+      endeavor I undertake.\*
 
     elementId: ''
     styles:

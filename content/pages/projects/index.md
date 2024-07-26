@@ -63,7 +63,7 @@ bottomSections:
           hideLabel: true
           placeholder: Message
           isRequired: true
-          width: 1/2
+          width: full
           type: TextareaFormControl
         - name: updatesConsent
           label: Sign me up to recieve my words

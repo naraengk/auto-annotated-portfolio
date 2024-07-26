@@ -155,7 +155,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: LabelsSection
-    title: Skills
+    title: Flask
     subtitle: The section subtitle
     items:
       - type: Label

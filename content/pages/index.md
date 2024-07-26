@@ -143,6 +143,17 @@ sections:
         justifyContent: flex-end
     subtitle: Feel free to check them out.
     title: Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     title: Skills
     subtitle: ''

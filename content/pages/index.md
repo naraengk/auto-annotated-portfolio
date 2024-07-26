@@ -174,9 +174,6 @@ sections:
         label: Pancakes
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
       - type: Label

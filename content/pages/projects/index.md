@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: Reach Out
+    title: Reach Out to me
     colors: colors-f
     form:
       type: FormBlock

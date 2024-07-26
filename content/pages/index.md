@@ -124,6 +124,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: Submit
       styles:
         submitLabel:

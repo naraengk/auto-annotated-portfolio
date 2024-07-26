@@ -124,7 +124,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit
       styles:
         submitLabel:
           textAlign: center

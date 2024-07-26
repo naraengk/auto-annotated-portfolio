@@ -98,7 +98,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Feel free to check them out.
     actions:
       - type: Link
         label: See all projects

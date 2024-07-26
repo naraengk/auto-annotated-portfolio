@@ -102,7 +102,7 @@
             "address": "Amherst, MA, 01003",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",

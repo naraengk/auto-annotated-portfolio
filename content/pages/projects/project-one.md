@@ -13,10 +13,6 @@ description: >-
   learning experience fortified my foundational knowledge and deepened my
   insight into the evolving landscape of
   IT.                                         
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg

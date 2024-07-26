@@ -51,6 +51,7 @@ sections:
       - type: Link
         label: View all Projects
         url: github.com/naraengk/PythonProjects
+        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true

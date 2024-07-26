@@ -64,7 +64,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: About Me
+    title: Introduction
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

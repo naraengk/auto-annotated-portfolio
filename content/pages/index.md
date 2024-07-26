@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/3147823.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Naraen Gopalakrishnan
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome, explore my personal projects, skills, and experience in Computer
+      Engineering
     styles:
       self:
         height: auto
@@ -47,31 +44,83 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    media:
+      type: ImageBlock
+      url: /images/aba9879c-9d58-4ab9-8735-4f970b23c60e.JPG
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+  - type: DividerSection
+    title: Divider
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Introduction
+    subtitle: A little about me
+    text: >+
+      I am Naraen Gopalakrishnan, a sophomore pursuing Computer Engineering at
+      the UMass Amherst, with a passion for AI and ML. My academic journey is
+      complemented by hands-on experience through various internships and
+      projects. Beyond my professional pursuits, I am an avid football and F1
+      enthusiast, and enjoy bowling too. My diverse interests reflect my dynamic
+      approach to both technology and leisure, driving me to excel in every
+      endeavor I undertake.\*
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
+  - type: FeaturedProjectsSection
+    subtitle: Feel free to check them out.
+    actions: []
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -83,54 +132,93 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
+        justifyContent: center
+    title: Projects
+  - type: DividerSection
+    title: Divider
     elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
+  - type: LabelsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: Java
+        url: ''
+      - type: Label
+        label: Flask
+        url: ''
+      - type: Label
+        label: NumPy
+        url: ''
+      - type: Label
+        label: Django
+        url: ''
+      - type: Label
+        label: SciKit
+        url: ''
+      - type: Label
+        label: Beautiful Soup
+        url: ''
+      - type: Label
+        label: Selenium
+        url: ''
+      - type: Label
+        label: Matplotlib
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: MATLAB
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Reach out to me to collaborate!
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -154,21 +242,16 @@ sections:
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+          type: EmailFormControl
+        - type: TextareaFormControl
+          name: ''
+          label: Message
+          hideLabel: true
+          placeholder: Type your message here
+          width: full
+          isRequired: false
+      submitLabel: Submit
       styles:
         submitLabel:
           textAlign: center

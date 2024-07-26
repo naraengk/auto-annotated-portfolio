@@ -185,6 +185,9 @@ sections:
       - type: Label
         label: Python
         url: ''
+      - type: Label
+        label: Java
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

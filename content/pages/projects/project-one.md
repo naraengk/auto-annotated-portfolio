@@ -19,7 +19,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/unnamed (1).jpg
+  url: /images/10310245.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

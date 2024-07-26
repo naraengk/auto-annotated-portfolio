@@ -49,7 +49,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: View all Projects
         url: github.com/naraengk/PythonProjects
     showDate: false
     showDescription: true

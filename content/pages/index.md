@@ -176,6 +176,9 @@ sections:
       - type: Label
         label: Django
         url: ''
+      - type: Label
+        label: SciKit
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

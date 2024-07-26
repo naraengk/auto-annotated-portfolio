@@ -44,7 +44,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h6": {
         "size": "lg",

@@ -87,7 +87,9 @@
                 "label": "GitHub",
                 "url": "https://github.com/naraengk",
                 "altText": "GitHub",
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "left",
+                "showIcon": true
             }
         ],
         "contacts": {

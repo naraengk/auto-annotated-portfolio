@@ -52,17 +52,6 @@
             },
             {
                 "type": "Button",
-                "label": "Instagram",
-                "altText": "",
-                "url": "/instagram.com/naraengk",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "/linkedin.com/in/naraengk/",

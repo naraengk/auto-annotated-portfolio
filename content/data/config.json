@@ -43,12 +43,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "",
-                "url": "",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "mailto:naraengopala@umass.edu",
                 "altText": "",

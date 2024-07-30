@@ -175,12 +175,6 @@ sections:
           experience deepened my insight into the evolving field of IT.*
         name: IT Intern @ Spectrum Networks
         title: ''
-        image:
-          type: ImageBlock
-          altText: Person photo
-          caption: Caption of the image
-          elementId: ''
-          url: /images/spectrum_networks_middleeast_logo.jpeg
         elementId: ''
         styles:
           name:

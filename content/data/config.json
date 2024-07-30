@@ -45,7 +45,7 @@
                 "type": "Button",
                 "label": "Linkedin",
                 "altText": "",
-                "url": "/linkedin.com/in/naraengk/",
+                "url": "https://linkedin.com/in/naraengk/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

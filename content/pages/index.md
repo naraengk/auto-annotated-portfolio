@@ -155,7 +155,7 @@ sections:
           people on the waitlist, creating 1000 accounts, or generating $1000 in
           revenue.
 
-        name: Johnna Doe
+        name: Software Engineering Fellow @ Headstarter AI
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock

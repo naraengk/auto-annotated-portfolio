@@ -190,9 +190,14 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: >+
+          Building 5 AI projects with a group of 3 other members, participating
+          in various hackathons, and networking with tech professionals and
+          other fellow aspiring software engineers, along with a final project
+          where our team is aiming to achieve one of three goals: getting 1000
+          people on the waitlist, creating 1000 accounts, or generating $1000 in
+          revenue.
+
         name: John Doe
         title: CEO at Parks
         image:

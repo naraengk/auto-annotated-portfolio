@@ -156,7 +156,7 @@ sections:
           revenue.
 
         name: Software Engineering Fellow @ Headstarter AI
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: >-

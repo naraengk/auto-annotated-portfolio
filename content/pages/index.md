@@ -183,7 +183,7 @@ sections:
             fontWeight: 400
         image:
           type: ImageBlock
-          url: /images/spectrum_networks_middleeast_logo.jpeg
+          url: /images/images.jpeg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''

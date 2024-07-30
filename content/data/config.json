@@ -79,7 +79,7 @@
                 "label": "Instagram",
                 "altText": "",
                 "url": "/instagram.com/naraengk",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",

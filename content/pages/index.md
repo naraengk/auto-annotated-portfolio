@@ -185,7 +185,7 @@ sections:
 
 
         name: IT Intern @ Spectrum Networks
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: >-

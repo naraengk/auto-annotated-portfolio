@@ -145,7 +145,31 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TestimonialsSection
-    testimonials: []
+    testimonials:
+      - type: Testimonial
+        quote: >+
+          Building 5 AI projects with a group of 3 other members, participating
+          in various hackathons, and networking with tech professionals and
+          other fellow aspiring software engineers, along with a final project
+          where our team is aiming to achieve one of three goals: getting 1000
+          people on the waitlist, creating 1000 accounts, or generating $1000 in
+          revenue.
+
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-f
     variant: variant-c
     elementId: ''

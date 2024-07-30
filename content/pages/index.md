@@ -168,21 +168,13 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >+
-          *   Acquired extensive experience in Cloud Computing, Artificial
+          I gained extensive experience in Cloud Computing, Artificial
           Intelligence, and Python programming, significantly broadening my
-              exposure to the IT industry.
-
-          *   I underwent rigorous training encompassing Microsoft Azure
-          (AZ-900, AI-900, DP-900), Python, Artificial Intelligence, and Machine
-              Learning, with assessments validating my proficiency in these domains.
-
-          *   This immersive learning experience fortified my foundational
-          knowledge and deepened my insight into the evolving landscape of IT.
-
-
-
-
-
+          exposure to the IT industry. My rigorous training included Microsoft
+          Azure certifications (AZ-900, AI-900, DP-900), Python, and Machine
+          Learning, with assessments validating my proficiency. This immersive
+          experience fortified my foundational knowledge and deepened my insight
+          into the evolving landscape of IT.
 
         name: IT Intern @ Spectrum Networks
         title: ''

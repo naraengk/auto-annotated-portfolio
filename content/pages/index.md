@@ -147,14 +147,11 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >+
+        quote: >
           Building 5 AI projects with a group of 3 other members, participating
           in various hackathons, and networking with tech professionals and
           other fellow aspiring software engineers, along with a final project
-          where our team is aiming to achieve one of three goals: getting 1000
-          people on the waitlist, creating 1000 accounts, or generating $1000 in
-          revenue.
-
+          where our team is aiming to get 1000 people on the waitlist.
         name: Software Engineering Fellow @ Headstarter AI
         title: ''
         image:

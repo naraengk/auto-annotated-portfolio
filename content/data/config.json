@@ -63,7 +63,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "GitHub",
                 "altText": "",
                 "url": "/github.com/naraengk",
                 "showIcon": false,

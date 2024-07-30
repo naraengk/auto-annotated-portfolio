@@ -4,7 +4,7 @@ title: Professional Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/3147823.jpg
+  url: /images/istockphoto-865457032-612x612.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

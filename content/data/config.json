@@ -42,15 +42,6 @@
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:naraengopala@umass.edu",
-                "altText": "",
-                "icon": "mail",
-                "iconPosition": "left",
-                "showIcon": true
-            },
-            {
                 "type": "Button",
                 "label": "Linkedin",
                 "altText": "",

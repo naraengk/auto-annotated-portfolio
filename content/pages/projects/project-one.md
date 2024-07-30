@@ -15,7 +15,7 @@ description: >-
   chooses to continue.
 featuredImage:
   type: ImageBlock
-  url: /images/calculator-H223CT.jpg
+  url: /images/calculator-385506_1280.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

@@ -166,6 +166,39 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
+      - type: Testimonial
+        quote: >+
+          *   Acquired extensive experience in Cloud Computing, Artificial
+          Intelligence, and Python programming, significantly broadening my
+              exposure to the IT industry.
+
+          *   I underwent rigorous training encompassing Microsoft Azure
+          (AZ-900, AI-900, DP-900), Python, Artificial Intelligence, and Machine
+              Learning, with assessments validating my proficiency in these domains.
+
+          *   This immersive learning experience fortified my foundational
+          knowledge and deepened my insight into the evolving landscape of IT.
+
+
+
+
+
+
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-f
     variant: variant-c
     elementId: ''

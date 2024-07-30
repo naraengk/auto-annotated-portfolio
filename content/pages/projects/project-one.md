@@ -15,7 +15,7 @@ description: >-
   chooses to continue.
 featuredImage:
   type: ImageBlock
-  url: /images/unnamed (1).jpg
+  url: /images/Screenshot 2024-07-30 135708.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

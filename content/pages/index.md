@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: Professional Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

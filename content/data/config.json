@@ -76,7 +76,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Email",
                 "altText": "",
                 "url": "/writeto:naraengopala@umass.edu",
                 "showIcon": false,

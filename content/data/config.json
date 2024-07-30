@@ -51,15 +51,6 @@
                 "showIcon": true
             },
             {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/naraengk",
-                "altText": "GitHub",
-                "icon": "github",
-                "iconPosition": "left",
-                "showIcon": true
-            },
-            {
                 "type": "Button",
                 "label": "Instagram",
                 "altText": "",

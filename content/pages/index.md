@@ -156,8 +156,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/px7ENSa920YLIOjLya9QW5wQY.png
           altText: Person photo
           caption: Caption of the image
           elementId: ''

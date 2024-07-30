@@ -204,6 +204,8 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Experience
+    subtitle: Work experience gained
   - type: DividerSection
     title: Divider
     elementId: ''

@@ -15,7 +15,7 @@ description: >-
   corresponding hangman stage to indicate the number of remaining lives.
 featuredImage:
   type: ImageBlock
-  url: /images/hangman-game-icon-260nw-684124582.webp
+  url: /images/360_F_248961156_XeSISXFo6bcFUw830wpE2zPLxWGCl1u9.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

@@ -181,6 +181,13 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
     colors: colors-f
     variant: variant-c
     elementId: ''

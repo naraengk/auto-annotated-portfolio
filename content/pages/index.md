@@ -184,7 +184,7 @@ sections:
 
 
 
-        name: Johnna Doe
+        name: IT Intern @ Spectrum Networks
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock

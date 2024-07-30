@@ -78,7 +78,7 @@
                 "type": "Button",
                 "label": "Email",
                 "altText": "",
-                "url": "/writeto:naraengopala@umass.edu",
+                "url": "writeto:naraengopala@umass.edu",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

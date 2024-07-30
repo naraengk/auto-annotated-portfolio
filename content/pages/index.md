@@ -204,6 +204,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Experience
   - type: DividerSection
     title: Divider
     elementId: ''

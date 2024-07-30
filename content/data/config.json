@@ -25,9 +25,9 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Instagram",
                 "altText": "",
-                "url": "instagram.com/naraengk",
+                "url": "https://instagram.com/naraengk",
                 "icon": "instagram",
                 "elementId": ""
             }
@@ -42,37 +42,48 @@
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "",
-                "url": "",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:naraengopala@umass.edu",
+                "type": "Button",
+                "label": "Linkedin",
                 "altText": "",
-                "icon": "mail",
-                "iconPosition": "left",
-                "showIcon": true
+                "url": "https://linkedin.com/in/naraengk/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "LinkedIn",
-                "url": "linkedin.com/in/naraengk",
-                "altText": "",
-                "icon": "linkedin",
-                "iconPosition": "left",
-                "showIcon": true
-            },
-            {
-                "type": "Link",
+                "type": "Button",
                 "label": "GitHub",
+                "altText": "",
                 "url": "https://github.com/naraengk",
-                "altText": "GitHub",
-                "icon": "github",
-                "iconPosition": "left",
-                "showIcon": true
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Instagram",
+                "altText": "",
+                "url": "https://instagram.com/naraengk",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Email",
+                "altText": "",
+                "url": "writeto:naraengopala@umass.edu",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "contacts": {

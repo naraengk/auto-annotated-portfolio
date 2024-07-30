@@ -15,8 +15,9 @@ description: >-
   chooses to continue.
 featuredImage:
   type: ImageBlock
-  url: /images/unnamed (1).jpg
+  url: /images/calculator-385506_1280.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
 ---
+<https://github.com/naraengk/CalculatorPython>

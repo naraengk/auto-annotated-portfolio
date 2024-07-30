@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Professional Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -66,15 +66,14 @@ sections:
     variant: variant-a
     title: Introduction
     subtitle: A little about me
-    text: >+
-      I am Naraen Gopalakrishnan, a sophomore pursuing Computer Engineering at
-      the UMass Amherst, with a passion for AI and ML. My academic journey is
-      complemented by hands-on experience through various internships and
-      projects. Beyond my professional pursuits, I am an avid football and F1
-      enthusiast, and enjoy bowling too. My diverse interests reflect my dynamic
-      approach to both technology and leisure, driving me to excel in every
-      endeavor I undertake.\*
-
+    text: >
+      Hey, I'm Naraen Gopalakrishnan, a sophomore pursuing Computer Engineering
+      at UMass Amherst, with a passion for AI, ML, Cybersecurity and Embedded
+      Systems. My academic journey is complemented by hands-on experience
+      through various internships and projects. Beyond my professional pursuits,
+      I am an avid football and F1 enthusiast, and enjoy bowling too. My diverse
+      interests reflect my dynamic approach to both technology and leisure,
+      driving me to excel in every endeavor I undertake.
     elementId: ''
     styles:
       self:
@@ -134,6 +133,77 @@ sections:
       actions:
         justifyContent: center
     title: Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          Building 5 AI projects with a group of 3 other members, participating
+          in various hackathons, and networking with tech professionals and
+          other fellow aspiring software engineers, along with a final project
+          where our team is aiming to get 1000 people on the waitlist.
+        name: Software Engineering Fellow @ Headstarter AI
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/px7ENSa920YLIOjLya9QW5wQY.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          *Gained extensive experience in Cloud Computing, AI, and Python
+          programming, broadening my exposure to the IT industry. My training
+          included Microsoft Azure certifications (AZ-900, AI-900, DP-900) and
+          Machine Learning, with assessments validating my proficiency. This
+          experience deepened my insight into the evolving field of IT.*
+        name: IT Intern @ Spectrum Networks
+        title: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+        image:
+          type: ImageBlock
+          url: /images/images.jpeg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''

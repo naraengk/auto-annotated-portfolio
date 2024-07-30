@@ -183,8 +183,7 @@ sections:
             fontWeight: 400
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/spectrum_networks_middleeast_logo.jpeg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''

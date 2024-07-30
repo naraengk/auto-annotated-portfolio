@@ -67,7 +67,7 @@
                 "type": "Button",
                 "label": "Instagram",
                 "altText": "",
-                "url": "/instagram.com/naraengk",
+                "url": "https://instagram.com/naraengk",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

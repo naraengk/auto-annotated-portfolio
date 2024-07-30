@@ -180,7 +180,7 @@ sections:
           altText: Person photo
           caption: Caption of the image
           elementId: ''
-          url: /images/spectrum_networks_solutions_india_logo.jpeg
+          url: /images/spectrum_networks_middleeast_logo.jpeg
         elementId: ''
         styles:
           name:

@@ -177,7 +177,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/images.jpeg
+          url: /images/spectrum-homepage-logo.jpg
           altText: Person photo
           caption: Caption of the image
           elementId: ''

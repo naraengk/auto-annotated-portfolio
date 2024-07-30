@@ -56,7 +56,7 @@
                 "type": "Button",
                 "label": "GitHub",
                 "altText": "",
-                "url": "/github.com/naraengk",
+                "url": "https://github.com/naraengk",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

@@ -58,15 +58,6 @@
             },
             {
                 "type": "Link",
-                "label": "LinkedIn",
-                "url": "linkedin.com/in/naraengk",
-                "altText": "",
-                "icon": "linkedin",
-                "iconPosition": "left",
-                "showIcon": true
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/naraengk",
                 "altText": "GitHub",

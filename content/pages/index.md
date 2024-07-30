@@ -177,8 +177,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/images.jpeg
           altText: Person photo
           caption: Caption of the image
           elementId: ''

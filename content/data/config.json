@@ -83,6 +83,17 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/writeto:naraengopala@umass.edu",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "contacts": {
